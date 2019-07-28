@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Post seultado</title>
+	<title>Post Resultado</title>
 </head>
 <body>
 
